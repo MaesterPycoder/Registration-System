@@ -1,4 +1,4 @@
-# Registration-Syatem
+# Registration-System
 It is a python GUI based application.
 
 
